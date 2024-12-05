@@ -81,17 +81,10 @@
 
 <h2 align="left">🚀Tecnologias</h2>
 
-<img src = "excel.png" >
-
+<div>
+<img src = "excel.png" >&nbsp
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[ICON SLUG].svg" />
 
-
-
-
-###
-
-
-<div align="center">
 
 
 </div>
